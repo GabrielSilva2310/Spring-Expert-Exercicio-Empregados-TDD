@@ -21,17 +21,22 @@ A especificação do que deve ser implementado está no próprio código fonte d
 - JUnit 5
 - Postman
 
+# Postman Collection
+  Para testar a API, você pode usar a coleção do Postman disponível no link abaixo:
+  
+  [Download](https://github.com/GabrielSilva2310/Assets/blob/main/Postman%20Collections%20and%20Enviroments/Spring%20Expert/TDD%20Empregados/Empregados%20TDD.postman_collection.json)
+
 # Como executar o projeto
 
 Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/GabrielSilva2310/Spring-Expert-JUnit-Vanilla.git
+git clone https://github.com/GabrielSilva2310/Spring-Expert-Desafio-Empregados-TDD.git
 ```
-Importar Projeto para uma IDE de sua escolha , e executar o JUnit nas classes CityControllerIT.java e EventControllerIT.java.
+Importar Projeto para uma IDE de sua escolha , e executar o JUnit nas classes DepartmentControllerIT.java e EmployeeControllerIT.java.
 
-
+Use o Postman para fazer as requisições e verificar se os resultados correspondem aos testes.
 
 # Autor
 
