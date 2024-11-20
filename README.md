@@ -1,8 +1,8 @@
-# Java Spring Expert Desafio: Empregados TDD 
+# Java Spring Expert Exercício: Empregados TDD 
 
 
 # Sobre o projeto
-Este projeto é o desafio do capítulo sobre Testes Automatizados do Curso Java Spring Expert da [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
+Este projeto é um exercício do capítulo sobre Testes Automatizados do Curso Java Spring Expert da [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 O desafio consiste em implementar as funcionalidades necessárias para que os testes passem.
 
 
